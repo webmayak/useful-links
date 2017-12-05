@@ -23,3 +23,6 @@ http://telegraf.design/16-dizajn-printsipov-kotorye-uprostyat-zapolnenie-lyuboj-
 
 #### Beautiful and powerful HTML5 file upload plugin
 https://innostudio.de/fileuploader/
+
+#### MUURI - Responsive, sortable, filterable and draggable grid layouts
+https://haltu.github.io/muuri
