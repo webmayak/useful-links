@@ -3,6 +3,9 @@
 #### Справочник «Паттерны проектирования»
 http://design-pattern.ru/index.html
 
+#### Sample code for several design patterns in PHP
+https://github.com/kronusme/DesignPatternsPHP
+
 #### UML Diagrams Examples
 http://www.uml-diagrams.org/index-examples.html
 
