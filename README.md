@@ -1,3 +1,8 @@
+### Крутые примеры
+
+#### HumHub - Open Source Social Network
+https://github.com/humhub/humhub
+
 ### Архитектура
 
 #### Справочник «Паттерны проектирования»
