@@ -19,6 +19,11 @@ http://www.uml-diagrams.org/index-examples.html
 #### Continuous delivery на примере bitbucket pipeline в PHP проекте на базе Yii2
 http://farza.info/?p=410
 
+### Refactoring
+
+#### HABR: из шаурмы в Symfony или миграция legacy
+https://habr.com/company/devconf/blog/354546/
+
 ### HL & HA
 
 #### Уменьшение нагрузки на VDS: причины, их поиск и устранение
