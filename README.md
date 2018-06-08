@@ -19,6 +19,11 @@ http://www.uml-diagrams.org/index-examples.html
 #### Continuous delivery на примере bitbucket pipeline в PHP проекте на базе Yii2
 http://farza.info/?p=410
 
+### Инструменты
+
+#### Beautiful static documentation for your API
+https://github.com/lord/slate
+
 ### Refactoring
 
 #### HABR: из шаурмы в Symfony или миграция legacy
